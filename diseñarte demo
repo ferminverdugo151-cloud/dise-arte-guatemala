@@ -1,0 +1,10 @@
+git init
+git add .
+git commit -m "Diseñarte interior demo"
+git branch -M main
+git remote add origin https://github.com/ferminverdugo151/disenarte-demo.git
+git push -u origin main
+mv disenarte-interior-demo-v3.html index.html
+git add .
+git commit -m "Rename to index.html"
+git push
