@@ -12,3 +12,4 @@ mv disenarte-interior-demo-v3.html index.html
 git add .
 git commit -m "Rename to index.html"
 git push
+git remote -v
